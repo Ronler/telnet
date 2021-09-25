@@ -6,8 +6,8 @@ import getpass
 user = getpass.getuser()
 vrf_config = open('vrf_config.txt', 'w')
 
-user = 'root'
-password = 'lab123'
+user = #username you set
+password = #password you set
 timeout = 1
 tn = None
 
