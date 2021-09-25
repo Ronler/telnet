@@ -8,8 +8,8 @@ from os.path import exists as file_exists
 
 has_samples_file = file_exists('samplesbinaryfile.xlsx')
 
-user = 'root'
-password = 'lab123'
+user = #username you set
+password = #password you set
 timeout = 3
 tn = None
 
