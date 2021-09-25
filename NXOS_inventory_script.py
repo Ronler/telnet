@@ -6,8 +6,8 @@ import os.path
 import webbrowser
 
 
-user = 'admin'
-password = 'Insieme1234'
+user = #username you set
+password = #password you set
 timeout = 2
 tn = None
 
